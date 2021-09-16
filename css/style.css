@@ -1,0 +1,12 @@
+body {
+    max-width: 90%;
+    font-family: 'Raleway', sans-serif;
+    margin: 40px 100px;
+    float: center;
+    padding: 40px;
+}
+h1 {
+    padding-bottom: 10px;
+    box-sizing: border-box;
+    border-bottom: 1px solid #eee;
+}
